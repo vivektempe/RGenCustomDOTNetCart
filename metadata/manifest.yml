@@ -1,11 +1,12 @@
 Name: rgendotnet
-Cartridge-Short-Name: RGenDOTNET
+Cartridge-Short-Name: RGen
+Display-Name: RGen Custom Cartridge
 Cartridge-Version: '0.0.1'
 Compatible-Versions: ['0.0.1']
 Cartridge-Vendor: rgensolutions
 Version: '1.0'
-Source-Url: https://github.com/shrutikamendhe/BlankRepo.git
-Description: "RGen Custom DotNet 4.5 Cartrige."
+Source-Url: https://github.com/RGenSolutions/RGenCustomDOTNetCart.git
+Description: "RGen Custom DotNet 4.5 Cartridge."
 Vendor: "RGen Solutions"
 Platform: "Windows"
 Categories:
