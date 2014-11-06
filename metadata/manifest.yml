@@ -1,0 +1,14 @@
+Name: rgendotnet
+Cartridge-Short-Name: RGenDOTNET
+Cartridge-Version: '0.0.1'
+Compatible-Versions: ['0.0.1']
+Cartridge-Vendor: rgensolutions
+Version: '1.0'
+Source-Url: https://github.com/shrutikamendhe/BlankRepo.git
+Description: "RGen Custom DotNet 4.5 Cartrige."
+Vendor: "RGen Solutions"
+Platform: "Windows"
+Categories:
+  - service
+  - web_framework
+  - windows
